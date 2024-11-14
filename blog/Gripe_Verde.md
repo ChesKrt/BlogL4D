@@ -40,4 +40,4 @@ Después del caos de los primeros días de la infección es cuando finalmente el
 
 A pesar de que ambos grupos de sobrevivientes eliminen algunos infectados en enfrentamientos cuerpo a cuerpo, respiran las esporas que dejan algunos de estos al morir o al ser dañados por estos ellos no resultan infectados por la gripe verde.
 
-La gripe verde fue un patógeno que evoluciono de manera rápida alcanzando la capacidad de modificar físicamente algunos de sus infectados, más en algunas personas a pesar de ser contagiadas estas no muestran algún efecto del virus. Ellos son denominados inmunes o ***portadores*** dado al no sufrir los efectos del virus pero con la capacidad de infectar a otras personas si están cerca ellos.
+La gripe verde fue un patógeno que evoluciono de manera rápida alcanzando la capacidad de modificar físicamente algunos de sus infectados, más en algunas personas a pesar de ser contagiadas estas no muestran algún efecto del virus. Ellos son denominados inmunes o ***portadores*** dado al no sufrir los efectos del virus, pero con la capacidad de infectar a otras personas si están cerca ellos.
