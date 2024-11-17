@@ -6,6 +6,8 @@ La gripe verde es la cepa que inicio el apocalipsis zombi en el juego Left 4 Dea
 
 En un inicio esta infección se creía que era una variación del virus de la rabia y el gobierno de los Estados unidos junto a la C.E.D.A. (Civil Emergency and Defense Agency) tomaron la decisión de investigar a fondo esta nueva enfermedad.
 
+![C.E.D.A.](/Img/CEDA.jpg)
+
 Al principio no le dieron la importancia necesaria a esta enfermedad resultando en la rápida propagación de esta e iniciando un escandalo en los habitantes de Estados Unidos.
 
 ### Propagación
@@ -33,6 +35,8 @@ A las afueras de las ciudades en pequeños pueblos se negó la entrada del gobie
 De forma independiente se crearon grupos de exterminación de infectados, uno de los más famosos de este grupo son los “Ángeles de la muerte” los cuáles son autores de grandes masacres de infectados e infectados especiales, llevando un conteo de cuantos de estos han exterminado.
 
 Demás sobrevivientes en busca de la C.E.D.A. o el ejercito de los Estados Unidos han creado refugios temporales llenos de armas, botiquines, bombas caseras y munición para aquellos que logren llegar con vida. Dentro de estos refugios temporales se pueden encontrar vestigios y registros sobre todas las personas que han pasado por esos refugios en forma de grafitis. Algunos de estos muestran la fe que tienen las personas en la C.E.D.A. mientras que otros escriben sobre su descontento con esta. 
+
+![C.E.D.A poster](/Img/CEDA-poster.jpg)
 
 ### 2 semanas después
 
