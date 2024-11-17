@@ -22,7 +22,7 @@ En las grandes ciudades la infección se esparció de forma más rápida dado a 
 
 La gripe verde siendo un virus que esta en constante mutación dio un resultado distinto en varios portadores del virus llamándolos así *infectados especiales*.
 
-Estos infectados especiales fueron llamados [Boomer](/blog/Boomer.md), [Charger](/blog/Charger.md), [Witch](/blog/Witch.md), [Smoker](/blog/Smoker.md), [Spiter](/blog/Spiter.md), [Hunter](/blog/Hunter.md), [Jockey](/blog/Jockey.md) y el más peligroso de todos ellos, el imponente [Tank](/blog/Tank.md).
+Estos infectados especiales fueron llamados [Boomer](/blog/Boomer.md), [Charger](/blog/Charger.md), [Witch](/blog/Witch.md), [Smoker](/blog/Smoker.md), [Spitter](/blog/Spiter.md), [Hunter](/blog/Hunter.md), [Jockey](/blog/Jockey.md) y el más peligroso de todos ellos, el imponente [Tank](/blog/Tank.md).
 
 Se tiene la creencia que el origen de estas mutaciones de la gripe verde surge debido a un patrón que se repite en los infectados que se transforman en esa clase de infectados. El primero de ellos en aparecer fue el [Boomer](/blog/Boomer.md) y estuvo bajo la investigación de la C.E.D.A. antes de que se perdiera el control sobre la transmisión del virus.
 

@@ -21,4 +21,4 @@ Se debe tener cuidado con el Boomer ya que al entrar en su campo de visión vomi
 
 ### Posible origen
 
-La comunidad tiene cómo un dato casi asegurado que el origen del Boomer viene de alguien que sufría de sobrepeso debido a su apariencia física. Otros indican que el origen del Boomer vendría de una persona que tenía problemas gástricos antes de la [gripe verde](/blog/Gripe_Verde.md), esta teoría en particular ha sido refutada varias veces al ser esta una justificación que se intenta dar a la mutación de la cepa del virus en el infectado [Spiter](/blog/Spiter.md).
+La comunidad tiene cómo un dato casi asegurado que el origen del Boomer viene de alguien que sufría de sobrepeso debido a su apariencia física. Otros indican que el origen del Boomer vendría de una persona que tenía problemas gástricos antes de la [gripe verde](/blog/Gripe_Verde.md), esta teoría en particular ha sido refutada varias veces al ser esta una justificación que se intenta dar a la mutación de la cepa del virus en el infectado [Spitter](/blog/Spiter.md).
