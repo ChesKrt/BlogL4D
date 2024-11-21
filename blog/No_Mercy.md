@@ -14,4 +14,4 @@ Finalmente, los sobrevivientes llegan al Hospital Mercy, pero subir hacía el he
 
 ![Final](/Img/Campain/No-Mercy-Final.jpeg)
 
-La última parte de la campaña se desarrolla en el techo del Hospital Mercy. Los sobrevivientes deben activar una radio para llamar a un helicóptero de rescate y mientras esperan la llegada del helicóptero deben defenderse de las ultimas oleadas de infectados. Al paso de los minutos el helicoptero aparece y todos los sobrevivientes deben correr hacia el, terminando la campaña.
+La última parte de la campaña se desarrolla en el techo del Hospital Mercy. Los sobrevivientes deben activar una radio para llamar a un helicóptero de rescate y mientras esperan la llegada del helicóptero deben defenderse de las ultimas oleadas de infectados. Al paso de los minutos el helicoptero aparece y todos los sobrevivientes deben correr hacia el, terminando la campaña. 

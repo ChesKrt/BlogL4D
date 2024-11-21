@@ -14,4 +14,4 @@ La tercera parte sucede dentro del centro comercial que está completamente infe
 
 La cuarta parte tiene lugar en la entrada principal del centro comercial. Los sobrevivientes deben encender un auto de carreras para escapar del centro comercial. Esta parte es un enfrentamiento final donde los sobrevivientes deben defenderse de múltiples oleadas de zombis mientras llenan el tanque de gasolina del auto. La presión aumenta cuando los [Tanks](/blog/Tank.md) y la gasolina del auto todavía no ha sido llenada al completo. El final de la campaña muestra el auto de carreras escapando del centro comercial.
 
-![Dead-Center-Final](/Img/Campain/Dead_Center_Final.jpg)
+![Dead-Center-Final](/Img/Campain/Dead_Center_Final.jpg) 
